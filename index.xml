@@ -3,9 +3,20 @@
         <title>alv&#39;s temporary webzone</title>
         <link>http://dumpstr.github.io/</link>
         <description>this is a repo for all my half-baked thoughts</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 15 Jan 2022 21:31:44 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Jan 2022 10:18:17 -0500</lastBuildDate>
             <atom:link href="http://dumpstr.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>all wordles to date</title>
+    <link>http://dumpstr.github.io/all-wordles-to-date/</link>
+    <pubDate>Sun, 16 Jan 2022 10:18:17 -0500</pubDate>
+    <author>Author</author>
+    <guid>http://dumpstr.github.io/all-wordles-to-date/</guid>
+    <description><![CDATA[i enjoy playing wordle in the morning, even if i&rsquo;m not very good at it.
+it&rsquo;s kind of like scrabble without any of the commitment.
+an unintended consequence of trying to share this was having to change the configuration of this dumb site to allow emojis and learn some markdown, but what a pain.
+good new is that i now can unnecessarily emphasize things and slap emojis everywhere 🤪
+take care, dear readers 🙂]]></description>
+</item><item>
     <title>until the horror goes</title>
     <link>http://dumpstr.github.io/until-the-horror-goes/</link>
     <pubDate>Sat, 15 Jan 2022 21:31:44 -0500</pubDate>

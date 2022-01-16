@@ -2,10 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://dumpstr.github.io/</loc><lastmod>2022-01-15T21:31:44-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/all-wordles-to-date/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/tags/games/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/posts/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/tags/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://dumpstr.github.io/tags/music/</loc><lastmod>2022-01-15T21:31:44-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/posts/</loc><lastmod>2022-01-15T21:31:44-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/tags/</loc><lastmod>2022-01-15T21:31:44-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://dumpstr.github.io/until-the-horror-goes/</loc><lastmod>2022-01-15T21:31:44-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://dumpstr.github.io/tags/admin/</loc><lastmod>2022-01-15T17:52:19-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://dumpstr.github.io/my-first-post/</loc><lastmod>2022-01-15T17:52:19-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
