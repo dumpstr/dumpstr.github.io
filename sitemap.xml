@@ -2,11 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://dumpstr.github.io/tags/admin/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/posts/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/spilled-tea/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://dumpstr.github.io/tags/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/tags/admin/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/tags/keyboard/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/new-keyboard/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/posts/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/tags/</loc><lastmod>2022-05-24T13:40:15-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://dumpstr.github.io/spilled-tea/</loc><lastmod>2022-03-14T10:16:45-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dumpstr.github.io/return-to-form/</loc><lastmod>2022-01-28T12:07:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dumpstr.github.io/small-update/</loc><lastmod>2022-01-20T09:18:41-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dumpstr.github.io/all-wordles-to-date/</loc><lastmod>2022-01-16T10:18:17-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
